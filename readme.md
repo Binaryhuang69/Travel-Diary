@@ -10,4 +10,4 @@
 
 #### 练习英语
 
-##### 笔记方法详情见 [Typora与git](/Users/bin/Travel-Diary/Typora与git.md)
+##### 笔记方法详情见 [Typora与git](https://github.com/Binaryhuang69/Travel-Diary/blob/main/Typora%E4%B8%8Egit.md)
