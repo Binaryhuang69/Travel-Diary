@@ -59,3 +59,7 @@ mkdir 创建文件夹    touch 创建文件.格式     Markdown文件格式为.m
 ​																													bin
 
 ​																													2021.7.2
+
+### 最近总算搞清楚 Typora如何上传图片到GitHub了，用uPic
+
+文档稍后写写
