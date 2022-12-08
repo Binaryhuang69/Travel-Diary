@@ -56,3 +56,6 @@ mkdir 创建文件夹    touch 创建文件.格式     Markdown文件格式为.m
 
 
 
+​																													bin
+
+​																													2021.7.2
