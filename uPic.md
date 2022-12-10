@@ -8,7 +8,7 @@
 
 软件开源 使用简单方便
 
-![截屏2022-12-10 16.28.39](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/%25E6%2588%25AA%25E5%25B1%258F2022-12-10%252016.28.39-20221210170428385.png)
+![截屏2022-12-10 17.16.29](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/kdqokwdoq.png)
 
 ### 2.下载后
 
@@ -26,7 +26,7 @@
 
 ### 4.下面为Typora的一些设置
 
-![截屏2022-12-10 17.10.45](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/截屏2022-12-10 17.10.45.png)
+![截屏2022-12-10 17.17.06](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/%E6%88%AA%E5%B1%8F2022-12-10%2017.17.06.png)
 
 设置好将图片拖入Typora后即可以自动上传
 
