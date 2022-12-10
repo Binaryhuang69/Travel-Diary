@@ -8,15 +8,15 @@
 
 软件开源 使用简单方便
 
-![截屏2022-12-10 16.28.39](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/%25E6%2588%25AA%25E5%25B1%258F2022-12-10%252016.28.39.png)
+![截屏2022-12-10 16.28.39](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/%25E6%2588%25AA%25E5%25B1%258F2022-12-10%252016.28.39-20221210170428385.png)
 
-### 2.下载后![截屏2022-12-10 16.33.22](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/%25E6%2588%25AA%25E5%25B1%258F2022-12-10%252016.33.22.png)
+### 2.下载后
 
-解压后一定要将其移动到应用程序里面，不然会导致Typora验证图片上传失败。（前车之鉴）
+解压后一定要将其移动到应用程序里面，不然会导致Typora验证图片上传失败。（前车之鉴)
 
 ### 3.在GitHub创建一个仓库
 
-用于储存自己上传的照片![截屏2022-12-10 16.38.48](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/%25E6%2588%25AA%25E5%25B1%258F2022-12-10%252016.38.48.png)
+用于储存自己上传的照片
 
 无需SSH那种 只需要用户名、仓库名[Token](https://github.com/settings/tokens/new)
 
@@ -26,7 +26,7 @@
 
 ### 4.下面为Typora的一些设置
 
-![截屏2022-12-10 16.43.18](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/%25E6%2588%25AA%25E5%25B1%258F2022-12-10%252016.43.18.png)
+![截屏2022-12-10 17.10.45](https://raw.githubusercontent.com/Binaryhuang69/uPic/master/uPic/截屏2022-12-10 17.10.45.png)
 
 设置好将图片拖入Typora后即可以自动上传
 
